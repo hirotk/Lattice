@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lattice", "Lattice\Lattice.csproj", "{62A49EFC-42EC-47E1-8385-AAD80172FDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticeTest", "LatticeTest\LatticeTest.csproj", "{9C7D9DDD-E869-4F62-869F-3EEBC304C010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62A49EFC-42EC-47E1-8385-AAD80172FDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A49EFC-42EC-47E1-8385-AAD80172FDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A49EFC-42EC-47E1-8385-AAD80172FDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A49EFC-42EC-47E1-8385-AAD80172FDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C7D9DDD-E869-4F62-869F-3EEBC304C010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C7D9DDD-E869-4F62-869F-3EEBC304C010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C7D9DDD-E869-4F62-869F-3EEBC304C010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C7D9DDD-E869-4F62-869F-3EEBC304C010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
